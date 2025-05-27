@@ -1,6 +1,6 @@
 # SCADA Oil & Gas Simulation
 
-A beginner-friendly project exploring the basics of SCADA systems using **Siemens SIMATIC WinCC**. Built as a personal learning journey to understand how industrial systems—such as those in the oil and gas sector—are monitored and controlled.
+A beginner-friendly project exploring the basics of SCADA systems using **Siemens SIMATIC WinCC**. Built as a personal learning journey to understand how industrial systems,such as those in the oil and gas sector—are monitored and controlled.
 
 ## 🌍 Overview
 
