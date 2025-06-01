@@ -19,9 +19,9 @@ As someone interested in industrial automation and control systems, I wanted to 
 
 ## 🛠 Tools Used
 
-- **SIMATIC WinCC (TIA Portal)** – for HMI/SCADA design
-- **S7-1200 PLC (simulated)** – no physical hardware required
-- **Basic scripting/tag setup** – for alarms and logic
+- **SIMATIC WinCC (TIA Portal)** – for HMI/SCADA design.
+- **S7-1200 PLC (simulated)** – no physical hardware required.
+- **Basic scripting/tag setup** – for alarms and logic.
 
 ## 🧩 Features
 
